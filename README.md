@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Tomar</h1>
-<h3 align="center">a passionate Full-Stack Developer from India.</h3>
+<h3 align="center">a self-taught passionate Full-Stack Developer from India.</h3>
 
 - 💬 Ask me about **Nodejs, Expressjs, Reactjs, Redux, JavaScript**
 - 🌱 I’m currently learning **Amazon Web Services (AWS)**
