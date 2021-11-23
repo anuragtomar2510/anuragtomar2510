@@ -21,7 +21,7 @@ I love to build beautiful and performant products with delightful user experienc
 - [Node.js Events](https://anuragtomar.hashnode.dev/nodejs-events)
 - [Node.js HTTP Module](https://anuragtomar.hashnode.dev/nodejs-http-module)
 - [Node.js File System Module](https://anuragtomar.hashnode.dev/nodejs-file-system-module)
-- [ReactJS usestate Hook](https://anuragtomar.hashnode.dev/reactjs-usestate-hook)
+- [ReactJS useState Hook](https://anuragtomar.hashnode.dev/reactjs-usestate-hook)
 
 
 
