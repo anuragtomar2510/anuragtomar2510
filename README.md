@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Tomar</h1>
-<h3 align="center">a self-taught passionate Full-Stack Developer from India.</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 - 💬 Ask me about **Nodejs, Expressjs, Reactjs, Redux, JavaScript**
-- 🌱 I’m currently learning **Amazon Web Services (AWS)**
-- 🔭 I’m currently working on [eBuy](https://github.com/anuragtomar2510/eBuy) :heart_eyes:
-
-
+- 🌱 I’m currently learning **Redis**
 - ⚡ Fun fact **I :heart: to solve Algorithmic puzzles.**
 - 📫 How to reach me **anuragtomar2510@gmail.com**
 
